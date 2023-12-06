@@ -1,2 +1,3 @@
-# ICP_todo
-A basic todo list app deployed on ICP Blockchain
+# Todo List
+
+To manage your Todo's on-chain
